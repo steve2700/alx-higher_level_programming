@@ -5,4 +5,3 @@
 def is_same_class(obj, a_class):
     """returns"""
     return type(obj) is a_class
-

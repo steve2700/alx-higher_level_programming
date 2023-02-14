@@ -1,2 +1,2 @@
--- create holberton database 
-CREATE DATABASE IF NOT EXIST hbtn_0c_0;
+-- create holberton databases
+CREATE DATABASE IF NOT EXISTS hbtn_0c_0;

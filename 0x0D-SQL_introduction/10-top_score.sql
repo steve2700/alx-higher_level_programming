@@ -1,3 +1,3 @@
--- score and name in order by descending
-SELECT score, name FROM second_name ORDER BY score DESC;
+-- show rows and descending
+SELECT score, name FROM second_table ORDER BY score DESC;
 
